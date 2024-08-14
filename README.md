@@ -1,1 +1,2 @@
-# SQL-Project
+#SQL-QUERIES-ON-HR-SChema-of-an-Organization
+In this prjoect I have used MySQL Subqueries to analyse the patterns in the HR Schema of the organization. To name few analysis: Employee with highest salary, employee working from a paticular office location. I have explored application of subqueries in different different clauses like where clause, select clause, from clause to make inferences from the dataset.
